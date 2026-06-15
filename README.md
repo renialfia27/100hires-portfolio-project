@@ -1,4 +1,45 @@
-# 100hires-portfolio-project
+# SEO/AI SEO Expert Research
+
+Research repository collecting high-signal content from top SEO and AI SEO practitioners for playbook development.
+
+## Why These Experts?
+
+These 10 experts were selected because they **practice what they teach** — they share real data, frameworks, and case studies, not just general advice.
+
+| # | Expert | Platform | Why Selected |
+|---|--------|----------|--------------|
+| 1 | Aleyda Solis | Newsletter, X, Podcast | Weekly data-driven Google Core Update analysis using her own Sistrix data |
+| 2 | Lily Ray | LinkedIn, Substack, YouTube | Real client GEO/AI search impact data including mass AI content penalty cases |
+| 3 | Mike King | iPullRank, Newsletter | Creator of "Relevance Engineering" framework, builder of AI tools (Qforia, Orbitwise) |
+| 4 | Koray Tugberk Gubur | LinkedIn, YouTube | Built 48 custom AI agents for semantic SEO and content production |
+| 5 | Nathan Gotch | YouTube (125K subs) | Author of "AI SEO For Dummies" (2026), builder of Rankability AI SEO SaaS |
+| 6 | Ruben Hassid | LinkedIn (500K+), YouTube | Founder of EasyGen, scaling daily content production via AI avatar/voice cloning |
+| 7 | Matt Diggity | LinkedIn, Newsletter | Real case study: 100% AI content website, data from affiliate portfolio |
+| 8 | Will Scott | Search Engine Land | Detailed walkthrough using Claude Code as "SEO command center" |
+| 9 | Kevin Indig | Growth Memo, Podcast | Ex-Shopify/Atlassian/G2, SSI tracking tool for AI visibility in SaaS verticals |
+| 10 | Glen Allsopp | Detailed.com, Ahrefs, YouTube | Quarterly data study of 3,000+ companies, latest AI workflow videos for content research |
+
+## Content Collected
+
+### YouTube Transcripts (`/research/youtube-transcripts/`)
+- **Glen Allsopp** — 5 videos
+- **Lily Ray** — 5 videos  
+- **Nathan Gotch** — 5 videos
+- **Mike King** — 4 videos
+- **Koray Tugberk** — not available (channel not indexed)
+
+Total: 19 transcripts
+
+### LinkedIn Posts (`/research/linkedin-posts/`)
+- 10 expert files covering recent posts (2025–2026)
+- Focus: AI search visibility, GEO/AEO, content strategy, SEO frameworks
+
+## Folder Structure
+
+
+
+
+# 100hires-portfolio-project 1
 ## Tools Installed
 - **Cursor IDE** — AI-powered code editor (cursor.com)
 - **Claude Code** (Cursor Extension) — Anthropic's AI coding assistant
@@ -76,4 +117,6 @@ I use every day in marketing.
 <img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/d9772237-431b-4e00-9127-d4ee9d2717fa" />
 <img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/a8cb1154-839b-44db-8b72-4355ada7e405" />
 <img width="1918" height="993" alt="image" src="https://github.com/user-attachments/assets/b8dd4255-137d-432d-bd2b-871ef26b7706" />
+
+
 
